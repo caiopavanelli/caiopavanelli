@@ -23,10 +23,10 @@
 
 <br/>
 
-[![caiopavanelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiopavanelli&show_icons=true)](https://github.com/caiopavanelli)
+[![caiopavanelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiopavanelli&show_icons=true&count_private=true&theme=onedark)](https://github.com/caiopavanelli)
 
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-Caio_Pavanelli-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://coffeebrains.rocks)](https://coffeebrains.rocks) [![Twitter Badge](https://img.shields.io/badge/-Caio_Pavanelli-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/caiopava//)](https://twitter.com/caiopava/) [![Linkedin Badge](https://img.shields.io/badge/-Caio_Pavanelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-pavanelli//)](https://www.linkedin.com/in/caio-pavanelli/)
+[![Twitter Badge](https://img.shields.io/badge/-Caio_Pavanelli-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://caiopavanelli.netlify.app/)](https://caiopavanelli.netlify.app/) [![Twitter Badge](https://img.shields.io/badge/-Caio_Pavanelli-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/caiopava//)](https://twitter.com/caiopava/) [![Linkedin Badge](https://img.shields.io/badge/-Caio_Pavanelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-pavanelli//)](https://www.linkedin.com/in/caio-pavanelli/)
