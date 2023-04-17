@@ -22,9 +22,6 @@
 - [Alluxio Contributions](https://github.com/Alluxio/alluxio/pulls?q=is%3Apr+author%3Acaiopavanelli+)
 
 <br/>
-
-[![caiopavanelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiopavanelli&show_icons=true&count_private=true&theme=onedark)](https://github.com/caiopavanelli)
-
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
