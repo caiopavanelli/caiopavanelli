@@ -8,13 +8,6 @@
 - 🌱 Learning about Cloud Architecture, Systems Design and Data pipelines.
 - :bulb: Interested in :camera:/:guitar:/:musical_keyboard: as hobbies.
 
-### 🛠 Tech Stack
-
-- 💻 Java | Python | SQL
-- 🛢 RDBMS, NoSQL and Git
-- 🔧 CI/CD Pipelines | Shell Script
-- 🖥 Trino | Alluxio
-
 ### :coffee: Open Source
 
 - [Trino Contributions](https://github.com/trinodb/trino-python-client/pulls?q=is%3Apr+author%3Acaiopavanelli+)
