@@ -3,16 +3,14 @@
 ### 👨🏻‍💻 About Me
 
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 I have a [master's](https://repositorio.fei.edu.br/bitstream/FEI/279/1/fulltext.pdf) in Electrical Engineering at [Centro Universitário da FEI](https://portal.fei.edu.br) on [cognitive robotics](https://en.wikipedia.org/wiki/Cognitive_robotics).
+- 🎓 I have a [master's](https://repositorio.fei.edu.br/items/5d0d4129-e83e-45da-9aba-639779c65024) in Electrical Engineering at [Centro Universitário da FEI](https://portal.fei.edu.br) on [cognitive robotics](https://en.wikipedia.org/wiki/Cognitive_robotics).
 - 💼 Bulding modern data platforms from scratch.
-- 🌱 Learning about Cloud Architecture, Systems Design and Data pipelines.
+- 🌱 Learning about Cloud, Systems Design, Data pipelines, Machine Learning and AI.
 - :bulb: Interested in :camera:/:guitar:/:musical_keyboard: as hobbies.
 
 ### :coffee: Open Source
 
-- [Trino Contributions](https://github.com/trinodb/trino-python-client/pulls?q=is%3Apr+author%3Acaiopavanelli+)
-
-- [Alluxio Contributions](https://github.com/Alluxio/alluxio/pulls?q=is%3Apr+author%3Acaiopavanelli+)
+- [Trino Contributions](https://github.com/trinodb/trino-python-client/pulls?q=is%3Apr+author%3Acaiop
 
 <br/>
 <br/>
